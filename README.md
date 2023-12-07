@@ -1,7 +1,8 @@
 # IoT-Kelompok4
 Nama Anggota:
 -Reva Ananda (105221025)
--
+-Kevin Adam Prasetya (10522010)
+=M. Rayhan Putra Thahir (10522007)
 
 
 
