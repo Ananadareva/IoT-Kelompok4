@@ -22,10 +22,10 @@ Nama Anggota:
 <!-- Your main project details here -->
 
 ## Problem Statement
-    Di Indonesia, sistem pemantauan keamanan rumah masih jarang ditemui, padahal keberadaan sistem pemantauan rumah tersebut sangat krusial.
+   <p> Di Indonesia, sistem pemantauan keamanan rumah masih jarang ditemui, padahal keberadaan sistem pemantauan rumah tersebut sangat krusial.
 Hal ini dapat diidentifikasi melalui tingginya kasus kebakaran dan pencurian rumah di Indonesia saat penghuni meninggalkan rumah dalam waktu yng lama. 
 Perkembangan teknologi yang semakin pesat seharusnya memberikan dorongan bagi masyarakat 
-untuk mengadopsi solusi cerdas guna meningkatkan keamanan dan keselamatan di lingkungan tempat tinggal mereka.
+untuk mengadopsi solusi cerdas guna meningkatkan keamanan dan keselamatan di lingkungan tempat tinggal mereka.</p> 
     
 ## Proposed Solution
   Perangkat IoT dengan daya rendah yang dilengkapi dengan sensor-sensor memiliki potensi untuk memperbarui dan meningkatkan tingkat kenyamanan serta keamanan di rumah. 
