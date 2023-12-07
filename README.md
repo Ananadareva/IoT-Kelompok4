@@ -7,19 +7,16 @@ Nama Anggota:
 
 
 # Table of Contents
-1. [Main Project Details](#main-project-details)
-2. [Problem Statement](#problem-statement)
-3. [Proposed Solution](#proposed-solution)
-4. [Use Case Diagram](#use-case-diagram)
-5. [System Architecture](#system-architecture)
-6. [Hardware](#hardware)
-7. [Communication Protocol](#communication-protocol)
-8. [Server & Hosting](#server--hosting)
-9. [Frontend](#frontend)
+1. [Problem Statement](#problem-statement)
+2. [Proposed Solution](#proposed-solution)
+3. [Use Case Diagram](#use-case-diagram)
+4. [System Architecture](#system-architecture)
+5. [Hardware](#hardware)
+6. [Communication Protocol](#communication-protocol)
+7. [Server & Hosting](#server--hosting)
+8. [Frontend](#frontend)
 
 
-## Main Project Details
-<!-- Your main project details here -->
 
 ## Problem Statement
    <p> Di Indonesia, sistem pemantauan keamanan rumah masih jarang ditemui, padahal keberadaan sistem pemantauan rumah tersebut sangat krusial.
