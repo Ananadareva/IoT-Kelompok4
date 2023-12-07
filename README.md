@@ -21,14 +21,20 @@ Nama Anggota:
 <!-- Your main project details here -->
 
 ## Problem Statement
-    Di Indonesia, sistem pemantauan keamanan rumah masih jarang ditemui, padahal keberadaan sistem pemantauan rumah tersebut sangat krusial. Hal ini dapat diidentifikasi melalui tingginya kasus kebakaran dan pencurian rumah di Indonesia. Perkembangan teknologi yang semakin pesat seharusnya memberikan dorongan bagi masyarakat untuk mengadopsi solusi cerdas guna meningkatkan keamanan dan keselamatan di lingkungan tempat tinggal mereka.
+    Di Indonesia, sistem pemantauan keamanan rumah masih jarang ditemui, padahal keberadaan sistem pemantauan rumah tersebut sangat krusial.
+Hal ini dapat diidentifikasi melalui tingginya kasus kebakaran dan pencurian rumah di Indonesia saat penghuni meninggalkan rumah dalam waktu yng lama. 
+Perkembangan teknologi yang semakin pesat seharusnya memberikan dorongan bagi masyarakat 
+untuk mengadopsi solusi cerdas guna meningkatkan keamanan dan keselamatan di lingkungan tempat tinggal mereka.
     
 ## Proposed Solution
-  Perangkat IoT dengan daya rendah yang dilengkapi dengan sensor-sensor memiliki potensi untuk memperbarui dan meningkatkan tingkat kenyamanan serta keamanan di rumah. Sensor-sensor ini dapat mencakup sensor-sensor seperti suhu, kelembaban, gerak, dan lainnya. Informasi yang dikumpulkan dari sensor-sensor ini dapat diakses dan dimonitor oleh penghuni rumah melalui aplikasi berbasis web.  
+  Perangkat IoT dengan daya rendah yang dilengkapi dengan sensor-sensor memiliki potensi untuk memperbarui dan meningkatkan tingkat kenyamanan serta keamanan di rumah. 
+Sensor-sensor ini dapat mencakup sensor-sensor seperti suhu, kelembaban, gerak, dan lainnya.
+Informasi yang dikumpulkan dari sensor-sensor ini dapat diakses dan dimonitor oleh penghuni rumah melalui aplikasi berbasis web.  
   
 
 ## Use Case Diagram
-<!-- Your use case diagram here -->
+![image](https://github.com/Ananadareva/IoT-Kelompok4/assets/107190924/117978f7-a763-4fd3-b872-9cd9424e7b07)
+
 
 ## System Architecture
 <!-- Your system architecture details here -->
